@@ -6,7 +6,7 @@ export default defineConfig({
     plugins: [
         laravel({
             input: ['resources/css/app.css', 'resources/js/app.js'],
-            refresh: true, // This ensures Blade/Livewire files trigger a reload
+            refresh: true,
         }),
         tailwindcss(),
     ],
