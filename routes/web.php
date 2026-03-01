@@ -6,7 +6,7 @@ Route::view('/', 'welcome')->name('welcome');
 
 Route::view('/specials', 'specials')->name('specials');
 
-Route::view('/menu', 'menu')->name('menu');
+Route::view('/appetizers', 'appetizers')->name('appetizers');
 
 Route::view('/menu', 'menu')->name('menu');
 

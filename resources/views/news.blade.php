@@ -65,7 +65,7 @@
     </div>
     <hr class="dark horizontal my-0">
     <div class="card-footer d-flex">
-      <p class="font-weight-normal my-auto">$1175.95/night</p>
+      <p class="font-weight-normal my-auto">$117.95/night</p>
       <i class="material-symbols-rounded position-relative ms-auto text-lg me-1 my-auto">place</i>
       <p class="text-sm my-auto"> Barcelona, Spain</p>
     </div>
@@ -95,7 +95,7 @@
     </div>
     <hr class="dark horizontal my-0">
     <div class="card-footer d-flex">
-      <p class="font-weight-normal my-auto">$1175.95/night</p>
+      <p class="font-weight-normal my-auto">$117.95/night</p>
       <i class="material-symbols-rounded position-relative ms-auto text-lg me-1 my-auto">place</i>
       <p class="text-sm my-auto"> Barcelona, Spain</p>
     </div>
@@ -125,7 +125,7 @@
     </div>
     <hr class="dark horizontal my-0">
     <div class="card-footer d-flex">
-      <p class="font-weight-normal my-auto">$1175.95/night</p>
+      <p class="font-weight-normal my-auto">$117.95/night</p>
       <i class="material-symbols-rounded position-relative ms-auto text-lg me-1 my-auto">place</i>
       <p class="text-sm my-auto"> Barcelona, Spain</p>
     </div>

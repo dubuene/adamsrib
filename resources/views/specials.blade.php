@@ -36,7 +36,7 @@
             </li>
           </ol>
         </nav>
-        <h2 class="font-bold text-indigo-600">The Daily Specials Menu</h2>
+        <h2 class="font-bold text-indigo-600">The Appetizers Menu</h2>
       </div>
       <div class="flex items-center space-x-4">
         <button data-modal-toggle="filterModal" data-modal-target="filterModal" type="button" class="flex w-full items-center justify-center rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:outline-none focus:ring-4 focus:ring-gray-100 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-700 sm:w-auto">
@@ -85,13 +85,13 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/_salad_med.jpg" />
+            <img class="mx-auto h-full dark:hidden" src="images/calamari.jpg" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/imac-front-dark.svg" alt="" />
           </a>
         </div>
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"> Up to 20% off Monday's </span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">  </span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -119,7 +119,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Chop Salad</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Calamari Plate</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -165,7 +165,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$35.75</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$13.75</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -179,14 +179,14 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/bruschetta.jpg" alt="Goat Plate" />
+            <img class="mx-auto h-full dark:hidden" src="images/beignet.png" alt="Beignets" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/iphone-dark.svg" alt="" />
           </a>
         </div>
 
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"> Up to 20% off Thursday's </span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">  </span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look-2" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -214,7 +214,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Bruschetta</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Beignets</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -266,7 +266,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$108.99</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$5.95</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -280,14 +280,14 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/auntiehelen.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/burntends.png" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-dark.svg" alt="" />
           </a>
         </div>
 
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">Up to 20% off Monday's</span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"></span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look-3" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -315,7 +315,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Luisa's Venezuelan Feast for 8</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Burnt Ends Snack Box</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -361,7 +361,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$108.99</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$11.95</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -382,7 +382,7 @@
 
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"> Up to 20% off Wednesday's </span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">  </span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look-4" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -410,7 +410,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">100 pcs Chili Ribs</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Seafood Salad</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -456,7 +456,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$98.95</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$8.99</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -470,14 +470,14 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/familydinner.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/breadsandwich.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/xbox-dark.svg" alt="" />
           </a>
         </div>
 
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"> Up to 20% off Wednesday's </span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">Buy 2 get one free from open to close on Friday. </span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look-5" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -501,11 +501,11 @@
               <div id="tooltip-add-to-favorites-5" role="tooltip" class="tooltip invisible absolute z-10 inline-block rounded-lg bg-gray-900 px-3 py-2 text-sm font-medium text-white opacity-0 shadow-sm transition-opacity duration-300 dark:bg-gray-700" data-popper-placement="top">
                 Add to favorites
                 <div class="tooltip-arrow" data-popper-arrow=""></div>
-              </div>
+              </div>f
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Lamb Ribs 50 pieces</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Gravy Bread Sandwich</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -557,7 +557,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$98.95</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$8.99</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -571,14 +571,14 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/chilaqueles.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/sample.png" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/macbook-pro-dark.svg" alt="" />
           </a>
         </div>
 
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"> Up to 20% off Tuesday's </span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">  </span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look-6" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -606,7 +606,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">The Damn Thing for 8 people</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Tasting Plate</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -652,7 +652,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$175.95</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$7.95</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -666,14 +666,14 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/fuck.jpg" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/fatbowl.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/apple-watch-dark.svg" alt="" />
           </a>
         </div>
 
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"> Up to 20% off Friday's </span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">  </span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look-7" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -701,7 +701,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">The Big Crenny </a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Lobster Roll </a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -747,7 +747,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$42.00</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$12.00</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -761,13 +761,13 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/yeschef.jpg" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/seafoodsalad.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-keyboard-dark.svg" alt="" />
           </a>
         </div>
         <div class="pt-6">
           <div class="mb-4 flex items-center justify-between gap-4">
-            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300"> Up to 20% off Sunday's  </span>
+            <span class="me-2 rounded bg-primary-100 px-2.5 py-0.5 text-xs font-medium text-primary-800 dark:bg-primary-900 dark:text-primary-300">   </span>
 
             <div class="flex items-center justify-end gap-1">
               <button type="button" data-tooltip-target="tooltip-quick-look-8" class="rounded-lg p-2 text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -795,7 +795,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Chef Darlene Gautier'd Dinner Parties</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Seafood Salad</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -841,7 +841,8 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-semibold leading-tight text-red-500 dark:text-white">$75/hr plus food costs. Call for a Quote!</p>
+             <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$15.00</p>
+
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">

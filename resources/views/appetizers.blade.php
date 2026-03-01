@@ -36,7 +36,7 @@
             </li>
           </ol>
         </nav>
-        <h2 class="font-bold text-indigo-600">The Meats Menu</h2>
+        <h2 class="font-bold text-indigo-600">The Daily Specials Menu</h2>
       </div>
       <div class="flex items-center space-x-4">
         <button data-modal-toggle="filterModal" data-modal-target="filterModal" type="button" class="flex w-full items-center justify-center rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:outline-none focus:ring-4 focus:ring-gray-100 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:focus:ring-gray-700 sm:w-auto">
@@ -85,7 +85,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/bubba.png" />
+            <img class="mx-auto h-full dark:hidden" src="images/_salad_med.jpg" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/imac-front-dark.svg" alt="" />
           </a>
         </div>
@@ -119,7 +119,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">The Big Bubba</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Chop Salad</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -165,7 +165,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$23.75</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$13.75</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -179,7 +179,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/goat.png" alt="Goat Plate" />
+            <img class="mx-auto h-full dark:hidden" src="images/bruschetta.jpg" alt="Goat Plate" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/iphone-dark.svg" alt="" />
           </a>
         </div>
@@ -214,7 +214,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Aunt Helen Special</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Bruschetta</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -280,7 +280,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/auntiehelen.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/cobb.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-dark.svg" alt="" />
           </a>
         </div>
@@ -315,7 +315,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Heaux Gotta Eat Too</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Cobb Salad</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -375,7 +375,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/cren.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/shrimpcreole.png" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ps5-dark.svg" alt="" />
           </a>
         </div>
@@ -410,7 +410,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">The Big Terry</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Shrimp Creole</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -470,7 +470,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/familydinner.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/calamari.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/xbox-dark.svg" alt="" />
           </a>
         </div>
@@ -505,7 +505,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Mexican Grill</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Calamari</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -571,7 +571,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/chilaqueles.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/rainbow.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/macbook-pro-dark.svg" alt="" />
           </a>
         </div>
@@ -606,7 +606,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Chilaquiles Con Carne</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Rainbow Salad</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -666,7 +666,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/ribdinner.png" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/lobster.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/apple-watch-dark.svg" alt="" />
           </a>
         </div>
@@ -701,7 +701,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">The Ed</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Lobster Roll </a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -747,7 +747,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$28.00</p>
+            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$15.95</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
@@ -761,7 +761,7 @@
       <div class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
         <div class="h-56 w-full">
           <a href="#">
-            <img class="mx-auto h-full dark:hidden" src="images/a_salmonnic.jpg" alt="" />
+            <img class="mx-auto h-full dark:hidden" src="images/seafoodsalad.jpg" alt="" />
             <img class="mx-auto hidden h-full dark:block" src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-keyboard-dark.svg" alt="" />
           </a>
         </div>
@@ -795,7 +795,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">The Ms. Mary's Salmon Plate</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Seafood Salad</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
@@ -841,7 +841,7 @@
           </ul>
 
           <div class="mt-4 flex items-center justify-between gap-4">
-            <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$18.00</p>
+           <p class="text-2xl font-extrabold leading-tight text-gray-900 dark:text-white">$17.95</p>
 
             <button type="button" class="inline-flex items-center rounded-lg bg-primary-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-primary-800 focus:outline-none focus:ring-4  focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               <svg class="-ms-2 me-2 h-5 w-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
