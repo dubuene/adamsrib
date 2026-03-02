@@ -15,6 +15,11 @@ Route::view('/meats', 'meats')->name('meats');
 Route::view('/cater', 'cater')->name('cater');
 
 
+Route::view('/fullmenu', 'fullmenu')->name('fullmenu');
+
+Route::view('/cateringmenu', 'cateringmenu')->name('cateringmenu');
+
+Route::view('/deleteme', 'deleteme')->name('deleteme');
 
 
 Route::middleware(['auth', 'verified'])->group(function () {

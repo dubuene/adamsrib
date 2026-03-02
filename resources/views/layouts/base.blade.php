@@ -14,16 +14,35 @@
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
                     <div class="flex-shrink-0">
-                        <img src="images/logo.png" alt="Logo" class="w-10 h-10">
+                        <img src="images/prokitchen.png" alt="Logo" class="w-10 h-10">
                     </div>
 
-                    <nav class="ml-10 flex  items-baseline space-x-8">
-                       <a href="/" class="text-white hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium">Main</a>
-                        <a href="/specials" class="text-gray-600 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium">Specials</a>
-                         <a href="/appetizers" class="text-white hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium">Appetizers/Salads</a>
-                        <a href="/meats" class="text-gray-600 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium">Meats</a>
-                        <a href="/cater" class="text-gray-600 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium">Catering</a>
-                   </nav>
+                   <nav class="ml-10 flex items-baseline space-x-8">
+    <a href="/"
+       class="{{ request()->is('/') ? 'text-yellow-500' : 'text-white' }} hover:text-blue-500 active:text-red-500 px-3 py-2 rounded-md text-sm font-medium transition-colors">
+       Main
+    </a>
+
+    <a href="/specials"
+       class="{{ request()->is('specials') ? 'text-yellow-500' : 'text-white' }} hover:text-blue-500 active:text-red-500 px-3 py-2 rounded-md text-sm font-medium transition-colors">
+       Specials
+    </a>
+
+    <a href="/appetizers"
+       class="{{ request()->is('appetizers') ? 'text-yellow-500' : 'text-white' }} hover:text-blue-500 active:text-red-500 px-3 py-2 rounded-md text-sm font-medium transition-colors">
+       Appetizers/Salads
+    </a>
+
+    <a href="/meats"
+       class="{{ request()->is('meats') ? 'text-yellow-500' : 'text-white' }} hover:text-blue-500 active:text-red-500 px-3 py-2 rounded-md text-sm font-medium transition-colors">
+       Meats
+    </a>
+
+    <a href="/cater"
+       class="{{ request()->is('cater') ? 'text-yellow-500' : 'text-white' }} hover:text-blue-500 active:text-red-500 px-3 py-2 rounded-md text-sm font-medium transition-colors">
+       Catering
+    </a>
+</nav>
                 </div>
             </div>
 

@@ -795,7 +795,7 @@
             </div>
           </div>
 
-          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">The Ms. Mary's Salmon Plate</a>
+          <a href="#" class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white">Mary's Salmon Plate</a>
 
           <div class="mt-2 flex items-center gap-2">
             <div class="flex items-center">
